@@ -34,7 +34,7 @@ const (
 	PROJECT_ID = "third-runway-199302"
 	BT_INSTANCE = "around-post"
 	// Needs to update this URL if you deploy it to cloud.
-	ES_URL = "http://35.188.75.243:9200"
+	ES_URL = "http://35.188.39.180 :9200"
 )
 
 func main() {
